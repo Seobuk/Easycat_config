@@ -1,0 +1,4 @@
+C:\util\easycat\EasyConfigurator_V4_2\EasyConfigurator_V4_2\Projects\HUslave\HUslave.prj
+C:\work\Proj-Arduino\AM_MEGA\AMslave\AMslave.prj
+C:\work\Proj-Arduino\VP-Joystick\EasyCat\VPJoystick.prj
+C:\util\easycat\EasyConfigurator_V4_2\EasyConfigurator_V4_2\Projects\TFLSlave\TFLSlave.prj
