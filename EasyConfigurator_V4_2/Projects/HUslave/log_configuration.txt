@@ -1,7 +1,7 @@
 
 Easy Configurator, configuration engine  V_3_3 
 
-log created on Thu Aug 03 13:42:36 2023
+log created on Tue Aug 15 15:07:43 2023
 
 Analyzing the project file
 
@@ -38,11 +38,11 @@ Line 30 --- Distance                int16_t
 Line 31 --- Control                 int16_t
 INFO_TAG
 0x0000079A
-AB&amp;T
-0xDEADBEEF
+KIMM
 0x00000001
-HUSlave
-HUSlave
+0x00000001
+AM_Tester
+AM_Tester
 END_TAG
 
 The HUslave.prj configuration file is correct
@@ -56,11 +56,11 @@ Creating the HUslave.xml file
 
 PROJECT_TAG   HUslave.prj
 VENDOID_TAG   0000079A
-VEN_NAM_TAG   AB&amp;T
-PRO_COD_TAG   DEADBEEF
+VEN_NAM_TAG   KIMM
+PRO_COD_TAG   00000001
 REVISIO_TAG   00000001
-DEV_NAM_TAG   HUSlave
-DEV_NAM_TAG   HUSlave
+DEV_NAM_TAG   AM_Tester
+DEV_NAM_TAG   AM_Tester
 
 FIRST_TAG
 

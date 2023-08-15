@@ -33,7 +33,7 @@
 
 	<Vendor>
 		<Id>#x0000079A</Id> 
-	  	<Name>AB&amp;T</Name>  
+	  	<Name>KIMM</Name>  
 	    <ImageData16x14>424dd6020000000000003600000028000000100000000e0000000100180000000000a0020000c40e0000c40e000000000000000000004cb1224cb1224cb1224cb1224cb1224cb1224cb1224cb1224cb1224cb1224cb1224cb1224cb1224cb1224cb1224cb1224cb1224cb1224cb1224cb1224cb1224cb1224cb1224cb1224cb1224cb1224cb1224cb1224cb1224cb1224cb1224cb1224cb1224cb1224cb1224cb1224cb1224cb1224cb1224cb1224cb1224cb1224cb1224cb1224cb1224cb1224cb1224cb122ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff241cedffffff241cedffffff241ced241cedffffffffffffffffff241ced241ced241cedffffff241cedffffffffffff241cedffffff241cedffffff241cedffffff241cedffffff241cedffffff241cedffffffffffff241cedffffffffffff241cedffffff241cedffffff241cedffffff241cedffffff241cedffffff241cedffffffffffff241cedffffffffffff241cedffffff241cedffffff241cedffffff241cedffffffffffff241cedffffffffffffffffff241cedffffffffffff241ced241ced241cedffffff241ced241cedffffffffffff241cedffffff241cedffffffffffff241cedffffffffffff241cedffffff241cedffffff241cedffffff241cedffffff241cedffffff241cedffffffffffff241cedffffffffffff241cedffffff241cedffffff241cedffffff241cedffffffffffff241cedffffffffffffffffff241cedffffffffffff241cedffffff241cedffffff241cedffffff241cedffffffffffffffffffffffffffffffffffff241cedffffffffffffffffff241cedffffffffffffffffff241cedffffffffffffffffffffffffffffffffffff241ced241ced241cedffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff</ImageData16x14>
 	</Vendor> 
   <Descriptions>
@@ -53,8 +53,8 @@
 <!-- ************************************************************************************** -->   
 
       <Device Physics="YY">
-        <Type ProductCode="#xDEADBEEF" RevisionNo="#x00000001" CheckRevisionNo="EQ_OR_G">HUSlave</Type>
-        <Name LcId="1033"><![CDATA[HUSlave]]></Name>        
+        <Type ProductCode="#x00000001" RevisionNo="#x00000001" CheckRevisionNo="EQ_OR_G">AM_Tester</Type>
+        <Name LcId="1033"><![CDATA[AM_Tester]]></Name>        
         <GroupType>SSC_Device</GroupType>
 
         <Fmmu>Outputs</Fmmu>
