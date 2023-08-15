@@ -1,0 +1,21 @@
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+EASYMASTER	KEYWORD1
+RXDATA	KEYWORD1
+TXDATA	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+Init	KEYWORD2
+StartApp	KEYWORD2
+EndApp	KEYWORD2
+
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
